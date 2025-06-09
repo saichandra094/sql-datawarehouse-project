@@ -51,13 +51,11 @@ This repository is ideal for:
 Everything is **free to use**!
 
 - **[Datasets](datasets/)**: CSV files for ERP and CRM data
-- **SQL Server Express**: Lightweight SQL Server for hosting your database.
-- **SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases.
-- **GitHub**: Create a repository to manage, version, and collaborate on your code.
-- **Draw.io**: Design diagrams for data architecture, models, and flows.
-- **Notion**:
-  - Project Template
-  - Step-by-step Project Phases and Tasks
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**: Lightweight SQL Server for hosting your database
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)**: GUI for managing and interacting with databases
+- **[GitHub](https://github.com/)**: Create a repository to manage, version, and collaborate on your code
+- **[Draw.io (diagrams.net)](https://www.diagrams.net/)**: Design diagrams for data architecture, models, and flow
+
 
 ---
 
