@@ -87,8 +87,6 @@ Develop SQL-based analytics for delivering insights into:
 
 These insights will support stakeholders in making **strategic business decisions**.
 
-_For more details, refer to_ `docs/requirements.md`.
-
 ---
 
 ## 📂 Repository Structure
