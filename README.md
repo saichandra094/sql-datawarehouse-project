@@ -50,7 +50,7 @@ This repository is ideal for:
 
 Everything is **free to use**!
 
-- **Datasets**: CSV files for ERP and CRM data.
+- **[Datasets](datasets/)**: CSV files for ERP and CRM data
 - **SQL Server Express**: Lightweight SQL Server for hosting your database.
 - **SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases.
 - **GitHub**: Create a repository to manage, version, and collaborate on your code.
